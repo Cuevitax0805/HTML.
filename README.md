@@ -1,7 +1,5 @@
 # HTML.
-Repositorio de compilación y elementos básicos de PHP
-
-# HTML
+Repositorio de compilación y elementos básicos de HTML
 
 # Etiquetas HTML
  Recopilacion de la etiquetas con su propia funcion para la conprención del repositorio : 
